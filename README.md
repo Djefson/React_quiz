@@ -1,9 +1,9 @@
 
 The app is built in React js and Typescripts, data sources are from OpenTrivia API and the front-end is styled by using google fonts.
 
+<img width="863" alt="Quiz1" src="https://user-images.githubusercontent.com/58703612/113158225-e3f2d480-923b-11eb-931b-ef66648c71e5.png">
 <img width="1433" alt="Quiz 3" src="https://user-images.githubusercontent.com/58703612/113158173-d89fa900-923b-11eb-9d90-c8f0522ca0fa.png">
 <img width="1299" alt="Quiz 5" src="https://user-images.githubusercontent.com/58703612/113158187-dc333000-923b-11eb-99f8-dd9ba01b2b43.png">
-<img width="863" alt="Quiz1" src="https://user-images.githubusercontent.com/58703612/113158225-e3f2d480-923b-11eb-931b-ef66648c71e5.png">
 <img width="1344" alt="Quiz2" src="https://user-images.githubusercontent.com/58703612/113158248-eb19e280-923b-11eb-96fd-b7a8db0313a5.png">
 <img width="1200" alt="quiz4" src="https://user-images.githubusercontent.com/58703612/113158270-efde9680-923b-11eb-9e14-d999d6eba479.png">
 <img width="1405" alt="quiz7" src="https://user-images.githubusercontent.com/58703612/113158286-f4a34a80-923b-11eb-96b9-a22de82eacd5.png">
