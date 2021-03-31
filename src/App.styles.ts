@@ -8,6 +8,7 @@ export const GlobalStyle = createGlobalStyle`
   }
   body {
     background-image: url(${BGImage});
+    background-color: chocolate ;
     background-size: 30%;
     margin: 0;
     padding: 0 20px;
