@@ -8,6 +8,9 @@ The app is built in React js and Typescripts, data sources are from OpenTrivia A
 <img width="1200" alt="quiz4" src="https://user-images.githubusercontent.com/58703612/113158270-efde9680-923b-11eb-9e14-d999d6eba479.png">
 <img width="1405" alt="quiz7" src="https://user-images.githubusercontent.com/58703612/113158286-f4a34a80-923b-11eb-96b9-a22de82eacd5.png">
 
+
+Click here  for a live Demo: https://master.dn46ox49jouxq.amplifyapp.com/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
